@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# pspdfkit-poc
+
+Use the following guide to have the project support pspdfkit
+
+https://pspdfkit.com/getting-started/web/?frontend=react&project=existing-project
+
+The goal is to create the folder:
+**public/pspdfkit-lib**
+
+it contains large files, that's why it's not on the git repository
+
